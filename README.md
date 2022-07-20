@@ -45,3 +45,6 @@ Dizinin son durumu [2,6,16,18,22,27] bu şekildedir. Bu durumda 18 sayısı orta
 [3,5,7|,8,2,9,4,15,6]
 
 [3,5,7,8|,2,9,4,15,6]
+
+(https://www.patika.dev/tr)
+
